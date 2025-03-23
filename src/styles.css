@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  border: 10px solid rgb(25, 123, 214);
+  background-color: rgb(181, 220, 255);
+}
+.count,
+button {
+  margin: 10px;
+  border-radius: 0.3rem;
+  padding: 5px;
+  border: 2px solid rgb(9, 19, 148);
+  background-color: transparent;
+}
